@@ -1,4 +1,4 @@
-# RedTube Downloader (Browser Extension)
+# RedTube Video Downloader (Browser Extension)
 
 > Download supported RedTube videos as MP4 files directly from active video pages.
 
@@ -12,7 +12,7 @@ RedTube Downloader is a browser extension built for users who want a cleaner way
 
 ## Links
 
-- :rocket: Get it here: [RedTube Downloader](https://serp.ly/redtube-video-downloader)
+- :rocket: Get it here: [RedTube Downloader](https://serp.ly/redtube-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/redtube-video-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/redtube-video-downloader/issues)
@@ -109,7 +109,7 @@ Saved files use MP4 so they are easier to replay on standard media players, move
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/redtube-video-downloader](https://serp.ly/redtube-video-downloader)
+Start here: [https://serp.ly/redtube-video-downloader?via=github](https://serp.ly/redtube-video-downloader?via=github)
 
 ## Troubleshooting
 
